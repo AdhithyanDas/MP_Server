@@ -1,0 +1,186 @@
+{
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "email": "dasadhithyan@gmail.com",
+      "username": "Adhithyan",
+      "password": "3244",
+      "id": 2
+    },
+    {
+      "username": "Adhithyan",
+      "email": "dasadhithyan",
+      "password": "32444",
+      "id": 3
+    },
+    {
+      "username": "Amjad",
+      "email": "amjad@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "username": "Swalih",
+      "email": "swalih@gmail.com",
+      "password": "234",
+      "id": 5
+    },
+    {
+      "username": "Adhithyandas",
+      "email": "dasadhithyanadhithyan@gmail.com",
+      "password": "32441",
+      "id": 6
+    },
+    {
+      "username": "Adhithyandas",
+      "email": "dasadhithyanadhithyandas@gmail.com",
+      "password": "32441",
+      "id": 7
+    },
+    {
+      "username": "Monu",
+      "email": "monuaadi0@gmail.com",
+      "password": "32444",
+      "id": 8
+    }
+  ],
+  "videos": [
+    {
+      "videoId": "1",
+      "title": "Dhoom Machale",
+      "imageUrl": "https://i.ytimg.com/vi/2uUmHTgT65I/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD24ImZC1q3guDvwWvvUiyO2wX0hA",
+      "videoUrl": "https://www.youtube.com/embed/2uUmHTgT65I?si=pAHvrnbkUUSkI7Yj&autoplay=1",
+      "id": 1
+    },
+    {
+      "videoId": "2",
+      "title": "Yennamo Yedho",
+      "imageUrl": "https://i.ytimg.com/vi/9hbe7-E8xqI/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/9hbe7-E8xqI?si=pAHvrnbkUUSkI7Yj&autoplay=1",
+      "id": 2
+    },
+    {
+      "videoId": "3",
+      "title": "Big Dawgs",
+      "imageUrl": "https://i.ytimg.com/vi/hOHKltAiKXQ/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/hOHKltAiKXQ?si=pAHvrnbkUUSkI7Yj&autoplay=1",
+      "id": 3
+    },
+    {
+      "videoId": "4",
+      "title": "Alif",
+      "imageUrl": "https://i.ytimg.com/vi/9Nh9Bf1zMA4/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/w1JKcIeqxdA?si=pAHvrnbkUUSkI7Yj&autoplay=1",
+      "id": 4
+    },
+    {
+      "videoId": "5",
+      "title": "Malabari Banger",
+      "imageUrl": "https://i.ytimg.com/vi/DvS1rlMA64c/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/DvS1rlMA64c?si=pAHvrnbkUUSkI7Yj&autoplay=1",
+      "id": 5
+    },
+    {
+      "videoId": "6",
+      "title": "Habibi Drip",
+      "imageUrl": "https://i.ytimg.com/vi/drr8XByJMMI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB-SBpfCCi8NIVLdxwTIkoJJM9gOA",
+      "videoUrl": "https://www.youtube.com/embed/drr8XByJMMI?si=pAHvrnbkUUSkI7Yj&autoplay=1",
+      "id": 6
+    }
+  ],
+  "category": [
+    {
+      "categoryId": "1",
+      "title": "Music",
+      "videos": [
+        {
+          "videoId": "1",
+          "title": "Dhoom Machale",
+          "imageUrl": "https://i.ytimg.com/vi/2uUmHTgT65I/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD24ImZC1q3guDvwWvvUiyO2wX0hA",
+          "videoUrl": "https://www.youtube.com/embed/2uUmHTgT65I?si=pAHvrnbkUUSkI7Yj&autoplay=1",
+          "id": 1
+        },
+        {
+          "videoId": "2",
+          "title": "Yennamo Yedho",
+          "imageUrl": "https://i.ytimg.com/vi/9hbe7-E8xqI/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/9hbe7-E8xqI?si=pAHvrnbkUUSkI7Yj&autoplay=1",
+          "id": 2
+        },
+        {
+          "videoId": "3",
+          "title": "Big Dawgs",
+          "imageUrl": "https://i.ytimg.com/vi/hOHKltAiKXQ/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/hOHKltAiKXQ?si=pAHvrnbkUUSkI7Yj&autoplay=1",
+          "id": 3
+        },
+        {
+          "videoId": "2",
+          "title": "Yennamo Yedho",
+          "imageUrl": "https://i.ytimg.com/vi/9hbe7-E8xqI/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/9hbe7-E8xqI?si=pAHvrnbkUUSkI7Yj&autoplay=1",
+          "id": 2
+        },
+        {
+          "videoId": "3",
+          "title": "Big Dawgs",
+          "imageUrl": "https://i.ytimg.com/vi/hOHKltAiKXQ/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/hOHKltAiKXQ?si=pAHvrnbkUUSkI7Yj&autoplay=1",
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryId": "2",
+      "title": "Videos",
+      "videos": [
+        {
+          "videoId": "5",
+          "title": "Malabari Banger",
+          "imageUrl": "https://i.ytimg.com/vi/DvS1rlMA64c/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/DvS1rlMA64c?si=pAHvrnbkUUSkI7Yj&autoplay=1",
+          "id": 5
+        },
+        {
+          "videoId": "2",
+          "title": "Yennamo Yedho",
+          "imageUrl": "https://i.ytimg.com/vi/9hbe7-E8xqI/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/9hbe7-E8xqI?si=pAHvrnbkUUSkI7Yj&autoplay=1",
+          "id": 2
+        },
+        {
+          "videoId": "3",
+          "title": "Big Dawgs",
+          "imageUrl": "https://i.ytimg.com/vi/hOHKltAiKXQ/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/hOHKltAiKXQ?si=pAHvrnbkUUSkI7Yj&autoplay=1",
+          "id": 3
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryId": "3",
+      "title": "Songs",
+      "videos": [
+        {
+          "videoId": "6",
+          "title": "Habibi Drip",
+          "imageUrl": "https://i.ytimg.com/vi/drr8XByJMMI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB-SBpfCCi8NIVLdxwTIkoJJM9gOA",
+          "videoUrl": "https://www.youtube.com/embed/drr8XByJMMI?si=pAHvrnbkUUSkI7Yj&autoplay=1",
+          "id": 6
+        }
+      ],
+      "id": 3
+    },
+    {
+      "categoryId": "4",
+      "title": "Film",
+      "videos": [],
+      "id": 4
+    }
+  ],
+  "history": []
+}
